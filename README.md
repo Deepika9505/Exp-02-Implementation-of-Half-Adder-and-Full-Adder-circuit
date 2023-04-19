@@ -60,28 +60,44 @@ endmodule
 Developed by: K.DEEPIKA
 RegisterNumber: 212222050009
 */
+
+
 Logic symbol
 ![LS](https://user-images.githubusercontent.com/128984662/233136896-4326e26a-56e8-4b43-803b-cd3658c77de0.jpeg)
 
+
+
 RTL realization
-### Output:
+Output:
 
 HALF ADDER
+
 ![HA](https://user-images.githubusercontent.com/128984662/233137873-bfac9988-4643-4fed-bb57-781c3749f3f8.jpeg)
+
 FULL ADDER
+
 ![FA](https://user-images.githubusercontent.com/128984662/233138040-d5b369be-5ec4-4078-935f-28c00559efb9.jpeg)
 
-### RTL
-### TIMING DIAGRAM
+RTL
+TIMING DIAGRAM
+
 HALF ADDER
+
 ![hat](https://user-images.githubusercontent.com/128984662/233138275-f3a0b861-9ce2-4a41-8448-e2c74906a7a9.jpeg)
+
 FULL ADDER
+
 ![fat](https://user-images.githubusercontent.com/128984662/233138378-ed16fb9f-b855-41c0-9fc2-f23e6e874bdf.jpeg)
 
-### TRUTH TABLE
+TRUTH TABLE
+
 HALF ADDER
+
+
 ![hatt](https://user-images.githubusercontent.com/128984662/233138486-26fdcbf5-a3ca-40f6-976d-94926add5cf9.jpeg)
+
 FULL ADDER
+
 ![fatt](https://user-images.githubusercontent.com/128984662/233138557-374cb767-0c51-4a0b-8fcf-96647efbf57b.jpeg)
 
 
